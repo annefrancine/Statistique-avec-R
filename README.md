@@ -1,3 +1,5 @@
+Cours de statistique avec R dispensé au 5éme année - Big Data (ESTIAM : école d'informatique et du numérique): 2020-2021
+
 # Statistique-avec-R
 
 Nous introduisons dans ce cours les principaux concepts statistiques appliqués à la data science (représentation graphique de données, indicateurs de tendance centrale et de dispersion, relation entre deux variables, lois de probabilités, intervalles de confiance).
