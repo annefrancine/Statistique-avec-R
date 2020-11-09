@@ -1,4 +1,4 @@
-Cours de statistique avec R dispensé au 5éme année - Big Data (ESTIAM : école d'informatique et du numérique): 2020-2021
+Cours d'analyse de données avec R dispensé au 5éme année - Big Data (ESTIAM : école d'informatique et du numérique): 2020-2021
 
 # Statistique-avec-R
 
